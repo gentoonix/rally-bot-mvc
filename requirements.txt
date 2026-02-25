@@ -1,6 +1,0 @@
-discord.py[voice]
-kokoro-onnx
-numpy
-python-dotenv
-PyNaCl
-opuslib
